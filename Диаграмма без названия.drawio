@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T19:09:36.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-Ytyi3KehY7e1g8I9tt3" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T19:19:35.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="oCcLx8JPCzaTXY_LcYfG" version="13.6.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1150" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1342" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,20 +326,20 @@
         <mxCell id="Ov0t7hppLk0mNa3laH7u-105" value="Заканчиваем БП" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="985" y="690" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-106" value="Просмотр отчета по координатам посещения&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="920" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Ov0t7hppLk0mNa3laH7u-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-99" target="Ov0t7hppLk0mNa3laH7u-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-109" value="Просмотр отчета по результатам обучения" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="785" width="120" height="80" as="geometry" />
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-115" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="1690" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-111" value="Task" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;comic=0;connectable=0;allowArrows=0;noLabel=0;portConstraintRotation=0;fixDash=0;expand=0;recursiveResize=0;resizable=0;movable=0;editable=0;rotatable=0;cloneable=0;deletable=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="790" width="210" height="120" as="geometry" />
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-109" value="Просмотр, редактирование отчета по результатам обучения" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="590" width="130" height="100.62" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-114" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-106" value="Просмотр отчета по координатам посещения&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="792.19" width="124.81" height="95.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
