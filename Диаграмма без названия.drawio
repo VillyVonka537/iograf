@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T17:33:41.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="YoYSRfbkMJB8QKVbpls9" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T17:47:08.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3xUBXWq27wURLKm-CT0O" version="13.6.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="805" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vuQd_B5Kcasl4n16irG2-12" value="Capability&lt;br&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry y="180" width="1120" height="550" as="geometry" />
+          <mxGeometry y="180" width="70" height="550" as="geometry" />
         </mxCell>
         <mxCell id="vuQd_B5Kcasl4n16irG2-13" value="Велосипед" style="swimlane;html=1;startSize=20;horizontal=0;" parent="vuQd_B5Kcasl4n16irG2-12" vertex="1">
-          <mxGeometry x="20" width="1100" height="290" as="geometry" />
+          <mxGeometry x="20" width="50" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Dc_LHGW3L4LaWaMohp9L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="vuQd_B5Kcasl4n16irG2-13" source="Dc_LHGW3L4LaWaMohp9L-3" target="vuQd_B5Kcasl4n16irG2-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,7 +36,7 @@
         </mxCell>
         <mxCell id="Dc_LHGW3L4LaWaMohp9L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="vuQd_B5Kcasl4n16irG2-12" source="Dc_LHGW3L4LaWaMohp9L-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="360" as="targetPoint" />
+            <mxPoint x="1000" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="145" />
               <mxPoint x="510" y="70" />
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vuQd_B5Kcasl4n16irG2-14" value="Самокат" style="swimlane;html=1;startSize=20;horizontal=0;" parent="vuQd_B5Kcasl4n16irG2-12" vertex="1">
-          <mxGeometry x="20" y="290" width="1100" height="260" as="geometry" />
+          <mxGeometry x="20" y="290" width="50" height="260" as="geometry" />
         </mxCell>
         <mxCell id="vuQd_B5Kcasl4n16irG2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vuQd_B5Kcasl4n16irG2-14" source="7a84cebc1def654-3" target="vuQd_B5Kcasl4n16irG2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -55,9 +55,6 @@
         </mxCell>
         <mxCell id="7a84cebc1def654-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="vuQd_B5Kcasl4n16irG2-14" source="7a84cebc1def654-2" target="7a84cebc1def654-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vuQd_B5Kcasl4n16irG2-21" value="Устраивает связь темы обучения?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vuQd_B5Kcasl4n16irG2-14" vertex="1">
-          <mxGeometry x="830" y="25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" parent="vuQd_B5Kcasl4n16irG2-14" vertex="1">
           <mxGeometry x="170" y="85" width="50" height="50" as="geometry" />
@@ -74,9 +71,6 @@
         <mxCell id="vuQd_B5Kcasl4n16irG2-24" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" parent="vuQd_B5Kcasl4n16irG2-14" vertex="1">
           <mxGeometry x="800" y="85" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vuQd_B5Kcasl4n16irG2-29" value="Привязать тему к ученику" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="vuQd_B5Kcasl4n16irG2-14" vertex="1">
-          <mxGeometry x="930" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Dc_LHGW3L4LaWaMohp9L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="vuQd_B5Kcasl4n16irG2-12" source="vuQd_B5Kcasl4n16irG2-27" target="vuQd_B5Kcasl4n16irG2-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="470" as="targetPoint" />
@@ -91,22 +85,8 @@
             <mxPoint x="820" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuQd_B5Kcasl4n16irG2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vuQd_B5Kcasl4n16irG2-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dc_LHGW3L4LaWaMohp9L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vuQd_B5Kcasl4n16irG2-29" edge="1" target="Ov0t7hppLk0mNa3laH7u-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="860" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1010" y="700" />
-              <mxPoint x="480" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EPQRirLi61YeAM1zd-wj-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Нет координат и нет оценки обучения (проводим встречу)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="420" width="120" height="100" as="geometry" />
+          <mxGeometry x="1215" y="300" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ov0t7hppLk0mNa3laH7u-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-1" target="Ov0t7hppLk0mNa3laH7u-3">
           <mxGeometry relative="1" as="geometry" />
@@ -114,7 +94,7 @@
         <mxCell id="Ov0t7hppLk0mNa3laH7u-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" vertex="1" parent="1">
           <mxGeometry x="190" y="940" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-2">
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-2" target="Ov0t7hppLk0mNa3laH7u-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="890" as="targetPoint" />
           </mxGeometry>
@@ -135,13 +115,33 @@
         <mxCell id="Ov0t7hppLk0mNa3laH7u-3" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="1">
           <mxGeometry x="300" y="940" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-4">
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-4" target="Ov0t7hppLk0mNa3laH7u-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ov0t7hppLk0mNa3laH7u-4" value="Выбрать вручную в рамках иерахии" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="925" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-11" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=signal;" vertex="1" parent="1">
+          <mxGeometry x="600" y="875" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQd_B5Kcasl4n16irG2-29" value="Привязать тему к ученику" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-14" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=signal;" vertex="1" parent="1">
+          <mxGeometry x="905" y="555" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQd_B5Kcasl4n16irG2-21" value="Устраивает связь темы обучения?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vuQd_B5Kcasl4n16irG2-24" target="Ov0t7hppLk0mNa3laH7u-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
