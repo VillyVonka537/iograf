@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T22:18:54.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="BvGwllutuQjZESkxHf2x" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T22:26:07.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ZdGJXAwRMhH8Dno8C61Y" version="13.6.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="947" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,11 +506,46 @@
             <mxPoint x="830" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6BSPlyHpQ7W5mAEHsCe-64" target="t6BSPlyHpQ7W5mAEHsCe-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722.4117647058824" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t6BSPlyHpQ7W5mAEHsCe-64" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="1">
           <mxGeometry x="697" y="1715" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-71" value="Р" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6BSPlyHpQ7W5mAEHsCe-71" target="t6BSPlyHpQ7W5mAEHsCe-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="1740" />
+              <mxPoint x="1000" y="1665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6BSPlyHpQ7W5mAEHsCe-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="893" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-71" value="Редактируем запланированную активность (время, дату, маршрут, сотрудника)" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="833" y="1700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-73" value="Сохраняю активность" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1700" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-77" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=timer;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="1760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-78" value="До и в день проведения обучения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="967.5" y="1770" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6BSPlyHpQ7W5mAEHsCe-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="1885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-80" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1860" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
