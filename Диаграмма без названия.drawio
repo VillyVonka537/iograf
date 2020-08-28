@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T06:27:23.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="PE1szNQf0FjiE__p0NK8" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T12:42:01.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="CqOvrInh3PGIuVZ3PKJS" version="13.6.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="920" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
             <mxPoint x="1530" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="Ov0t7hppLk0mNa3laH7u-68" target="Ov0t7hppLk0mNa3laH7u-82" edge="1">
+        <mxCell id="Ov0t7hppLk0mNa3laH7u-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ov0t7hppLk0mNa3laH7u-68" target="Ov0t7hppLk0mNa3laH7u-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1475" y="450" />
@@ -270,11 +270,10 @@
         <mxCell id="Ov0t7hppLk0mNa3laH7u-81" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Вкладка: Регистр тем обучения&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;rotation=270;" parent="1" vertex="1">
           <mxGeometry x="-130" y="795" width="357.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0t7hppLk0mNa3laH7u-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ov0t7hppLk0mNa3laH7u-82" target="vuQd_B5Kcasl4n16irG2-5" edge="1">
+        <mxCell id="xZC_yqYTykVy1-YeWueS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-82" target="xZC_yqYTykVy1-YeWueS-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="730" />
-              <mxPoint x="360" y="840" />
+              <mxPoint x="220" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -296,7 +295,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6BSPlyHpQ7W5mAEHsCe-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Ov0t7hppLk0mNa3laH7u-88" target="Ov0t7hppLk0mNa3laH7u-82" edge="1">
+        <mxCell id="xZC_yqYTykVy1-YeWueS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-88" target="xZC_yqYTykVy1-YeWueS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ov0t7hppLk0mNa3laH7u-88" value="Регистр тем обучения" style="shape=datastore;whiteSpace=wrap;html=1;comic=0;" parent="1" vertex="1">
@@ -1015,6 +1014,12 @@
         </mxCell>
         <mxCell id="o5MvwwQryGtqbovhuYau-7" value="Запись результатов обучения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2142.4" y="1785" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xZC_yqYTykVy1-YeWueS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xZC_yqYTykVy1-YeWueS-1" target="vuQd_B5Kcasl4n16irG2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZC_yqYTykVy1-YeWueS-1" value="Выбираю тему обучения из ранее созданной" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
