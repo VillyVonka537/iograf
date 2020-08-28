@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T12:42:01.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="CqOvrInh3PGIuVZ3PKJS" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T12:51:38.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Os4NSB4-L6TCOxmHy7-w" version="13.6.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="920" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="782" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,6 +73,9 @@
         <mxCell id="Dc_LHGW3L4LaWaMohp9L-20" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="648" y="610" width="27" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xZC_yqYTykVy1-YeWueS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vuQd_B5Kcasl4n16irG2-27" target="xZC_yqYTykVy1-YeWueS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vuQd_B5Kcasl4n16irG2-27" value="Задать связь в &quot;дополнительном&quot; регистре" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="390" y="640" width="120" height="80" as="geometry" />
         </mxCell>
@@ -89,13 +92,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuQd_B5Kcasl4n16irG2-5" value="Задать связь Маршрут(учитель) =&amp;gt; Маршрут ученик по подчиненности" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="535" y="800" width="120" height="80" as="geometry" />
+        <mxCell id="vuQd_B5Kcasl4n16irG2-5" value="Выбрать стаж работы для должности" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="567.5" y="800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vuQd_B5Kcasl4n16irG2-24" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" parent="1" vertex="1">
           <mxGeometry x="715" y="815" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Dc_LHGW3L4LaWaMohp9L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vuQd_B5Kcasl4n16irG2-27" target="vuQd_B5Kcasl4n16irG2-24" edge="1">
+        <mxCell id="Dc_LHGW3L4LaWaMohp9L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xZC_yqYTykVy1-YeWueS-6" target="vuQd_B5Kcasl4n16irG2-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="910" as="targetPoint" />
             <Array as="points">
@@ -273,7 +276,7 @@
         <mxCell id="xZC_yqYTykVy1-YeWueS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ov0t7hppLk0mNa3laH7u-82" target="xZC_yqYTykVy1-YeWueS-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="840" />
+              <mxPoint x="230" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -308,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ov0t7hppLk0mNa3laH7u-98" value="Устраивает связь темы обучения?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="755" width="100" height="60" as="geometry" />
+          <mxGeometry x="740" y="760" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ov0t7hppLk0mNa3laH7u-99" value="Сохраняю связь" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="832.5" y="857.81" width="70" height="30" as="geometry" />
@@ -1015,11 +1018,20 @@
         <mxCell id="o5MvwwQryGtqbovhuYau-7" value="Запись результатов обучения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2142.4" y="1785" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xZC_yqYTykVy1-YeWueS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xZC_yqYTykVy1-YeWueS-1" target="vuQd_B5Kcasl4n16irG2-5">
+        <mxCell id="xZC_yqYTykVy1-YeWueS-1" value="Выбираю тему обучения из ранее созданной" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xZC_yqYTykVy1-YeWueS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZC_yqYTykVy1-YeWueS-6" target="vuQd_B5Kcasl4n16irG2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xZC_yqYTykVy1-YeWueS-1" value="Выбираю тему обучения из ранее созданной" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="800" width="120" height="80" as="geometry" />
+        <mxCell id="xZC_yqYTykVy1-YeWueS-6" value="Задать связь Маршрут(учитель) =&amp;gt; Маршрут ученик по подчиненности" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="415" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xZC_yqYTykVy1-YeWueS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xZC_yqYTykVy1-YeWueS-1" target="xZC_yqYTykVy1-YeWueS-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="840" as="sourcePoint" />
+            <mxPoint x="580" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
