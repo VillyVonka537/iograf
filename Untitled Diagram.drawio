@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T08:16:06.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="dHYy-aa1bUuUYbhgWcQ2" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T09:03:23.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74" etag="LABcL8dT78QdDVQ5Yl3x" version="14.4.3" type="github">
   <diagram id="LPUY9Yh5iCmejDsE-yMz" name="Page-1">
-    <mxGraphModel dx="2595" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQN_f8L04oHf75iB1t_o-4" value="&lt;font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Бизнес-процесс Клиента (фронт)&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;docs-internal-guid-454e0e27-7fff-5288-7b2e-33ac58e89149&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;proxima nova&amp;#34; , sans-serif ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Кейс такси&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="130" width="470" height="60" as="geometry" />
+          <mxGeometry x="414" y="130" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQN_f8L04oHf75iB1t_o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FQN_f8L04oHf75iB1t_o-8" target="FQN_f8L04oHf75iB1t_o-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,17 +171,20 @@
         <mxCell id="FQN_f8L04oHf75iB1t_o-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Шаг №6&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2100" y="430" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6u1IUsdwqPgjuvoUIa0u-1" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Бизнесс-процесс Клиента&amp;nbsp;&lt;br&gt;Кейс - доставка на такси&lt;br&gt;Бэк взаимодействие&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6u1IUsdwqPgjuvoUIa0u-1" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Бизнесс-процесс Клиента&amp;nbsp;&lt;br&gt;Кейс - доставка на такси&lt;br&gt;Бэк взаимодействие&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="820" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6u1IUsdwqPgjuvoUIa0u-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Допустим, клиент выбрал &quot;Доставку на такси&quot;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6u1IUsdwqPgjuvoUIa0u-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Допустим, клиент выбрал &quot;Доставку на такси&quot;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1890" y="520" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6u1IUsdwqPgjuvoUIa0u-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;1. Алгоритм выбора&amp;nbsp; магазина для доставки клинету заказа.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6u1IUsdwqPgjuvoUIa0u-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;1. Алгоритм выбора&amp;nbsp; магазина для доставки клинету заказа.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="1070" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6u1IUsdwqPgjuvoUIa0u-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&quot;Реализация данного алгоритма валидна для системы-доставки Клиент-Такси&quot;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6u1IUsdwqPgjuvoUIa0u-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&quot;Реализация данного алгоритма валидна для системы-доставки Клиент-Такси&quot;&lt;br&gt;За основу взято&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1070" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXavNbmMzwCFzMOehlOA-1" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Здесь у вас будет претензия, что требования проработаны не на одном уровне, но лично я не увидел смысла, более глубоко детализировать взаимодействие Клиента с фронтом магазинаю&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="140" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
